@@ -1,0 +1,1 @@
+x_{i} = x_{i - 1} - \alpha \cdot \frac{\partial f( x_{i - 1})}{\partial x} \\
